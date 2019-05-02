@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/en/oneliners/awk-oneliners/awk-oneliners-season-01/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/oneliners/awk-oneliners/awk-oneliners-season-02/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/oneliners/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/additional-reading/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/ansible/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/awk/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/aws/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/azure/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/bash/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/case-study/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/devops/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/examples/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/google-cloud/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/kvm/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/linux/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/mysql/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/oneliners/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/packer/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/powershell/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/proxmox/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/question-answers/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/shell/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/terraform/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/tutorials/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/unix/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/utilities/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/tags/windows/</loc>
+    <lastmod>2019-05-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/additional-reading/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/case-studies/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/examples/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/question-answers/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/tutorials/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/utilities/</loc>
+  </url>
+  
+</urlset>
