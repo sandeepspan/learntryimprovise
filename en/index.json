@@ -1,0 +1,253 @@
+[
+{
+	"uri": "/en/oneliners/awk-oneliners/awk-oneliners-season-01/",
+	"title": "AWK One Liners Season 01",
+	"tags": ["linux", "unix", "awk"],
+	"description": "",
+	"content": "Content expected soon\u0026hellip;..\n"
+},
+{
+	"uri": "/en/oneliners/awk-oneliners/awk-oneliners-season-02/",
+	"title": "AWK One Liners Season 02",
+	"tags": ["linux", "unix", "awk"],
+	"description": "",
+	"content": "Content expected soon\u0026hellip;..\n"
+},
+{
+	"uri": "/en/oneliners/",
+	"title": "One Liners",
+	"tags": ["oneliners"],
+	"description": "",
+	"content": "You can find some helpful oneliners here.\n"
+},
+{
+	"uri": "/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/",
+	"title": "Welcome",
+	"tags": ["devops", "linux", "windows", "aws", "azure", "google cloud", "proxmox", "terraform", "packer", "ansible", "shell", "powershell", "bash", "kvm", "mysql"],
+	"description": "",
+	"content": "Welcome to Learn Try Improvise.\n"
+},
+{
+	"uri": "/en/tags/additional-reading/",
+	"title": "additional reading",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/ansible/",
+	"title": "ansible",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/awk/",
+	"title": "awk",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/aws/",
+	"title": "aws",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/azure/",
+	"title": "azure",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/bash/",
+	"title": "bash",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/case-study/",
+	"title": "case study",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/devops/",
+	"title": "devops",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/examples/",
+	"title": "examples",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/google-cloud/",
+	"title": "google cloud",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/kvm/",
+	"title": "kvm",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/linux/",
+	"title": "linux",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/mysql/",
+	"title": "mysql",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/oneliners/",
+	"title": "oneliners",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/packer/",
+	"title": "packer",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/powershell/",
+	"title": "powershell",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/proxmox/",
+	"title": "proxmox",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/question-answers/",
+	"title": "question answers",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/shell/",
+	"title": "shell",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/terraform/",
+	"title": "terraform",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/tutorials/",
+	"title": "tutorials",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/unix/",
+	"title": "unix",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/utilities/",
+	"title": "utilities",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/tags/windows/",
+	"title": "windows",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/additional-reading/",
+	"title": "Additional Reading",
+	"tags": ["additional reading"],
+	"description": "",
+	"content": "You can find some helpful articles here.\n"
+},
+{
+	"uri": "/en/case-studies/",
+	"title": "Case Studies",
+	"tags": ["case study"],
+	"description": "",
+	"content": "You can find some helpful case studies here.\n"
+},
+{
+	"uri": "/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/examples/",
+	"title": "Examples",
+	"tags": ["examples"],
+	"description": "",
+	"content": "You can find some helpful examples here.\n"
+},
+{
+	"uri": "/en/question-answers/",
+	"title": "Question &amp; Answers",
+	"tags": ["question answers"],
+	"description": "",
+	"content": "You can find some helpful question answers here.\n"
+},
+{
+	"uri": "/en/tutorials/",
+	"title": "Tutorials Series",
+	"tags": ["tutorials"],
+	"description": "",
+	"content": "You can find some helpful tutorials here.\n"
+},
+{
+	"uri": "/en/utilities/",
+	"title": "Utilities",
+	"tags": ["utilities"],
+	"description": "",
+	"content": "You can find some helpful utilities here.\n"
+}]
