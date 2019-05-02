@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>question answers on Documentation for Hugo Learn Theme</title>
+    <link>/en/tags/question-answers/</link>
+    <description>Recent content in question answers on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 May 2019 10:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="/en/tags/question-answers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Question &amp; Answers</title>
+      <link>/en/question-answers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/question-answers/</guid>
+      <description>You can find some helpful question answers here.</description>
+    </item>
+    
+  </channel>
+</rss>
