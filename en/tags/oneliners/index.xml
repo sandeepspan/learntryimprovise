@@ -12,12 +12,36 @@
     
     
     <item>
-      <title>One Liners</title>
-      <link>/en/oneliners/</link>
+      <title>AWK Commad One Liners</title>
+      <link>/en/oneliners/awk-oneliners/</link>
       <pubDate>Wed, 01 May 2019 10:54:24 +0200</pubDate>
       
+      <guid>/en/oneliners/awk-oneliners/</guid>
+      <description>Welcome,
+Have a great experience with AWK command onliners.
+ Season 01 Season 02 Season 03  Contact Us</description>
+    </item>
+    
+    <item>
+      <title>One Liners</title>
+      <link>/en/oneliners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>/en/oneliners/</guid>
-      <description>You can find some helpful oneliners here.</description>
+      <description>Welcome,
+Have a great experience with command onliners.
+ AWK Command One Liners SED Command One Liners  Contact Us</description>
+    </item>
+    
+    <item>
+      <title>SED Commad One Liners</title>
+      <link>/en/oneliners/sed-oneliners/</link>
+      <pubDate>Wed, 01 May 2019 10:54:24 +0200</pubDate>
+      
+      <guid>/en/oneliners/sed-oneliners/</guid>
+      <description>Welcome,
+Have a great experience with SED command onliners.
+ Season 01 Season 02 Season 03  Contact Us</description>
     </item>
     
   </channel>

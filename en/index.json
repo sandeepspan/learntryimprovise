@@ -1,24 +1,59 @@
 [
 {
+	"uri": "/en/oneliners/awk-oneliners/",
+	"title": "AWK Commad One Liners",
+	"tags": ["linux", "oneliners", "awk"],
+	"description": "",
+	"content": "Welcome,\nHave a great experience with AWK command onliners.\n Season 01 Season 02 Season 03  Contact Us\n"
+},
+{
+	"uri": "/en/oneliners/sed-oneliners/",
+	"title": "SED Commad One Liners",
+	"tags": ["linux", "oneliners", "sed"],
+	"description": "",
+	"content": "Welcome,\nHave a great experience with SED command onliners.\n Season 01 Season 02 Season 03  Contact Us\n"
+},
+{
 	"uri": "/en/oneliners/awk-oneliners/awk-oneliners-season-01/",
-	"title": "AWK One Liners Season 01",
+	"title": "Season 01",
 	"tags": ["linux", "unix", "awk"],
 	"description": "",
-	"content": "Content expected soon\u0026hellip;..\n"
+	"content": "Content expected soon\u0026hellip;..\nContact Us\n"
+},
+{
+	"uri": "/en/oneliners/sed-oneliners/sed-oneliners-season-01/",
+	"title": "Season 01",
+	"tags": ["linux", "unix", "sed"],
+	"description": "",
+	"content": "Content expected soon\u0026hellip;..\nContact Us\n"
 },
 {
 	"uri": "/en/oneliners/awk-oneliners/awk-oneliners-season-02/",
-	"title": "AWK One Liners Season 02",
+	"title": "Season 02",
 	"tags": ["linux", "unix", "awk"],
 	"description": "",
-	"content": "Content expected soon\u0026hellip;..\n"
+	"content": "Content expected soon\u0026hellip;..\nContact Us\n"
 },
 {
-	"uri": "/en/oneliners/",
-	"title": "One Liners",
-	"tags": ["oneliners"],
+	"uri": "/en/oneliners/sed-oneliners/sed-oneliners-season-02/",
+	"title": "Season 02",
+	"tags": ["linux", "unix", "sed"],
 	"description": "",
-	"content": "You can find some helpful oneliners here.\n"
+	"content": "Content expected soon\u0026hellip;..\nContact Us\n"
+},
+{
+	"uri": "/en/oneliners/awk-oneliners/awk-oneliners-season-03/",
+	"title": "Season 03",
+	"tags": ["linux", "unix", "awk"],
+	"description": "",
+	"content": "Content expected soon\u0026hellip;..\nContact Us\n"
+},
+{
+	"uri": "/en/oneliners/sed-oneliners/sed-oneliners-season-03/",
+	"title": "Season 03",
+	"tags": ["linux", "unix", "sed"],
+	"description": "",
+	"content": "Content expected soon\u0026hellip;..\nContact Us\n"
 },
 {
 	"uri": "/en/tags/",
@@ -32,7 +67,7 @@
 	"title": "Welcome",
 	"tags": ["devops", "linux", "windows", "aws", "azure", "google cloud", "proxmox", "terraform", "packer", "ansible", "shell", "powershell", "bash", "kvm", "mysql"],
 	"description": "",
-	"content": "Welcome to Learn Try Improvise.\n"
+	"content": "Welcome,\nIt was and will be always About Learn Try and Improvise.\n One Liners  Topic 01  Additional Reading  Topic 01  SubTopic 01  Topic 02  SubTopic 02   Case Studies  Topic 01  Examples  Topic 01  Question \u0026amp; Answers  Topic 01  Tutorials  Topic 01  Utilities  Topic 01   Contact Us\n"
 },
 {
 	"uri": "/en/tags/additional-reading/",
@@ -161,6 +196,13 @@
 	"content": ""
 },
 {
+	"uri": "/en/tags/sed/",
+	"title": "sed",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "/en/tags/shell/",
 	"title": "shell",
 	"tags": [],
@@ -203,18 +245,25 @@
 	"content": ""
 },
 {
+	"uri": "/en/question-answers/",
+	"title": "",
+	"tags": ["question answers"],
+	"description": "",
+	"content": "Welcome,\nHave a great experience with some helpful question answers here.\n Q\u0026amp;A 0001 Q\u0026amp;A 0002  Contact Us\n"
+},
+{
 	"uri": "/en/additional-reading/",
 	"title": "Additional Reading",
 	"tags": ["additional reading"],
 	"description": "",
-	"content": "You can find some helpful articles here.\n"
+	"content": "Welcome,\nHave a great experience with some helpful articles here.\n Article 0001 Article 0002  Contact Us\n"
 },
 {
 	"uri": "/en/case-studies/",
 	"title": "Case Studies",
 	"tags": ["case study"],
 	"description": "",
-	"content": "You can find some helpful case studies here.\n"
+	"content": "Welcome,\nHave a great experience with some helpful case studies here.\n Case Study 0001 Case Study 0002  Contact Us\n"
 },
 {
 	"uri": "/en/categories/",
@@ -228,26 +277,26 @@
 	"title": "Examples",
 	"tags": ["examples"],
 	"description": "",
-	"content": "You can find some helpful examples here.\n"
+	"content": "Welcome,\nHave a great experience with some helpful examples here.\n Example 0001 Example 0002  Contact Us\n"
 },
 {
-	"uri": "/en/question-answers/",
-	"title": "Question &amp; Answers",
-	"tags": ["question answers"],
+	"uri": "/en/oneliners/",
+	"title": "One Liners",
+	"tags": ["oneliners"],
 	"description": "",
-	"content": "You can find some helpful question answers here.\n"
+	"content": "Welcome,\nHave a great experience with command onliners.\n AWK Command One Liners SED Command One Liners  Contact Us\n"
 },
 {
 	"uri": "/en/tutorials/",
-	"title": "Tutorials Series",
+	"title": "Tutorials",
 	"tags": ["tutorials"],
 	"description": "",
-	"content": "You can find some helpful tutorials here.\n"
+	"content": "Welcome,\nHave a great experience with some helpful tutorials here.\n Tutorial 0001 Tutorial 0002  Contact Us\n"
 },
 {
 	"uri": "/en/utilities/",
 	"title": "Utilities",
 	"tags": ["utilities"],
 	"description": "",
-	"content": "You can find some helpful utilities here.\n"
+	"content": "Welcome,\nHave a great experience with some helpful utilities here.\n Utility 0001 Utility 0002  Contact Us\n"
 }]
